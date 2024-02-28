@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in UI/UX design & architecture<br>🌱 I’m currently reading for BSc. Management Information Systems<br>💞️ I’m looking to collaborate on IT related Projects<br>📫 Reach me https://behance.com/yasithasilva</p>
+<p align="left">👀 I’m interested in UI/UX design & architecture<br>🌱 I’m currently reading for BSc. Management Information Systems<br>💞️ I’m looking to collaborate on IT related Projects<br>📫 Reach me https://behance.com/yasitha_silva</p>
 
 ###
 
